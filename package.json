@@ -1,0 +1,21 @@
+{
+  "name": "boilerplate_html",
+  "version": "1.0.0",
+  "description": "boilerplate code",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "boilerplate"
+  ],
+  "author": "vjedulla",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3",
+    "jquery": "^3.1.0",
+    "normalize.css": "^4.2.0"
+  }
+}
