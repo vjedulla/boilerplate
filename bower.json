@@ -1,0 +1,21 @@
+{
+  "name": "boilerplate_html",
+  "description": "boilerplate code",
+  "main": "index.html",
+  "authors": [
+    "vjedulla"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "html",
+    "boilerplate"
+  ],
+  "homepage": "https://github.com/vjedulla/boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

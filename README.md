@@ -1,5 +1,5 @@
 # boilerplate
 Boilerplate for simple static HTML's
 
-# About
+# About 
 Composition for my school projects.
